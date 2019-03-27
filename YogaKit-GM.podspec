@@ -16,7 +16,7 @@ podspec = Pod::Spec.new do |spec|
 
   spec.authors = 'Facebook'
   spec.source = {
-    :git => 'https://github.com/facebook/yoga.git',
+    :git => 'https://github.com/guangmingzizai/yoga.git',
     :tag => 'v1.12.1_c',
   }
 
